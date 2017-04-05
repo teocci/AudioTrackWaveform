@@ -1,4 +1,4 @@
-# WaveformView
+# AudioTrackWaveform
 Interface for displaying audio data as waveform for Android.
 
 ![alt tag]()
